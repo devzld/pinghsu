@@ -1,8 +1,10 @@
-### 修改：加入了访客统计功能
-
 ## Pinghsu Theme
 
 ![](https://ws1.sinaimg.cn/large/7c98397dgy1fdydr3jw0yj20rs0fntaz.jpg)
+
+**修改**
+
++ 加入了访客统计功能
 
 **主题介绍**
 
